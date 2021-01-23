@@ -6,7 +6,7 @@ Puedes consultar todas las transparecias del curso en formato HTML desde nuestro
 
 También tienes todas las distribuciones de probabilidad en nuestro [Shiny interactivo](https://joanby.shinyapps.io/DistribucionesNotables/).
 
-Asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido de probabilidad del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros, economistas, biólogos, médicos o informáticos. 
+Asienta las bases para convertirte en el *Data Scientist* del futuro con todo el contenido de probabilidad del curso. En particular verás los mismos contenidos que explicamos en primero de carrera a matemáticos, ingenieros, economistas, biólogos, médicos o informáticos. 
 
 +  Prerrequisitos
 1. Probabilidad
@@ -17,4 +17,4 @@ Asienta las bases para convertirte en el Data Scientist del futuro con todo el c
 6. Variables multidimensionales
 7. Convergencia y Teorema Central del límite
 
-Y todo con más de 40 horas de vídeo bajo demanda, cientos de ejercicios, tareas, talleres y trucos de los profesores para que te conviertas en un experto de la materia.
+Y todo con más de **40 horas de vídeo bajo demanda, cientos de ejercicios, tareas, talleres y trucos de los profesores para que te conviertas en un experto de la materia.
